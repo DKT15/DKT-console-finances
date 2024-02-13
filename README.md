@@ -1,27 +1,49 @@
 # DKT-console-finances
+
 JavaScript project to demonstrate how I work with beginner knowledge.
 
 ## Description
 
 I have created my prohject to demonstrate my basic knowledge of Javascript. I have used my own knowlege and reserached a lot of my problems to make a solution. I have learnt how to use for loops, if statements, arrays etc. Refer to the console in the Chrome dev tools to see what I have done. Refer to the code file to see the code.
 
-## Installation
+## Table of Contents
 
-Using the live link will enable you to use this application. Right click and then select 'inspect.' Aterwards, go to the 'console' tab. This will show you what I have printed to the console.
+- [Technologies Used](#technology)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [About Me](#aboutme)
+- [License](#license)
+
+## Technologies Used
+
+- HTML
+- Javascript
 
 ## Usage
 
-Refer to the console in the Chrome dev tools to see what I have done and refer to the code file to see the code.
+Using the live link will enable you to use this application. Right click and then select 'inspect.' Aterwards, go to the 'console' tab. This will show you what I have printed to the console.
 
-Below is a screenshot of my portfolio:
+## Screenshot
 
-    ```md
-    ![This is an image of what the console should look like.](assets/images/js-image.png)
-    ```
+![Console finances image.](/assets/images/js-image.png)
 
-## Credits
+## Deployment
 
-N/A
+You can access the website with this link.(https://dkt15.github.io/DKT-console-finances/)
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or improvement.
+3. Make changes and submit a pull request.
+
+## 🚀 About Me
+
+[Danté Kellman-Thompson](https://github.com/DKT15)
 
 ## License
 
