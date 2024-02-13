@@ -1,10 +1,10 @@
 # DKT-console-finances
 
-JavaScript project to demonstrate how I work with beginner knowledge.
-
 ## Description
 
-I have created my project to demonstrate my basic knowledge of Javascript. I have used my own knowlege and researched a lot of my problems to make a solution. I have learned how to use for loops, if statements, arrays etc. Refer to the console in the Chrome dev tools to see what I have done. Refer to the code file to see the code.
+JavaScript project to demonstrate how I work with beginner knowledge.
+
+I have created my project to demonstrate my basic knowledge of Javascript. I have used my own knowledge and researched a lot of my problems to make a solution. I have learned how to use for loops, if statements, arrays etc. Refer to the console in the Chrome dev tools to see what I have done. Refer to the code file to see the code.
 
 ## Table of Contents
 
