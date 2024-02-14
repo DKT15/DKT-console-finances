@@ -23,7 +23,7 @@ I have created my project to demonstrate my basic knowledge of Javascript. I hav
 
 ## Usage
 
-Using the live link will enable you to use this application. Right click and then select 'inspect.' Aterwards, go to the 'console' tab. This will show you what I have printed to the console.
+Using the live link will enable you to use this application. Right click and then select 'inspect.' Afterwards, go to the 'console' tab. This will show you what I have printed to the console.
 
 ## Screenshot
 
@@ -31,7 +31,7 @@ Using the live link will enable you to use this application. Right click and the
 
 ## Deployment
 
-You can access the website with this link.(https://dkt15.github.io/DKT-console-finances/)
+You can access the website with this link [here](https://dkt15.github.io/DKT-console-finances/)
 
 ## Contributing
 
